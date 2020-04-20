@@ -1,1 +1,4 @@
 env
+.vscode
+cookbook/__pycache__
+cookbook/ingredients/__pycache__
