@@ -2,3 +2,4 @@ env
 .vscode
 cookbook/__pycache__
 cookbook/ingredients/__pycache__
+cookbook/ingredients/migrations/__pycache__
